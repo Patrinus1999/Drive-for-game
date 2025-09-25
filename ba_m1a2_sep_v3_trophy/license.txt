@@ -1,0 +1,11 @@
+Model Information:
+* title:	[BA] M1A2 SEP v3 Trophy
+* source:	https://sketchfab.com/3d-models/ba-m1a2-sep-v3-trophy-16f21a1261e34d24bcbc18930bbe0704
+* author:	xlisov (https://sketchfab.com/xlisov74)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[BA] M1A2 SEP v3 Trophy" (https://sketchfab.com/3d-models/ba-m1a2-sep-v3-trophy-16f21a1261e34d24bcbc18930bbe0704) by xlisov (https://sketchfab.com/xlisov74) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
